@@ -4,8 +4,7 @@ publishDate: 2020-03-04 00:00:00
 img: /assets/stock-3.jpg
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
-  I worked for the Direction Générale de l'Aviation Civile (DGAC) as a DevOps Architect, 
-proposing and building a technical architecture to migrate applications running on virtual machines to containerized platforms.
+  I worked for the Direction Générale de l'Aviation Civile (DGAC) as a DevOps Architect, proposing and building a technical architecture to migrate applications running on virtual machines to containerized platforms.
 tags:
   - Openshift
   - HP baremetal
