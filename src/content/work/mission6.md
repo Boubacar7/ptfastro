@@ -4,11 +4,17 @@ publishDate: 2019-10-02 00:00:00
 img: /assets/stock-2.jpg
 img_alt: Soft pink and baby blue water ripples together in a subtle texture.
 description: |
-  We developed brand positioning and design assets for the launch
-  of a new colored water product.
+  Automate patch for databases, operating systems etc. 
 tags:
-  - Openshift
-  - Automation
-  - 3scale API management
-  - aws
+  - Ansible Automation
+  - Linux
+  - Mysql
+  - Cisco
 ---
+
+## Cloud & DevOps engineer
+
+- linux operating system
+- Databases
+- Network devices
+- Web Services
