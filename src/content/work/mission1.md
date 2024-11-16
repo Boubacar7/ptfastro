@@ -4,7 +4,7 @@ publishDate: 2020-03-02 00:00:00
 img: /assets/stock-1.jpg
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  We designed deploy maintain and secure openshift platform for banking application.
+  As part of Groupe BPCE's Cloud/DevOps team, I work as a DevOps & Cloud Architect for the automation, deployment of banking banking applications and also the group's internal cloud services for Banque Populaire, Caisse d'Epargne, BRED and Natixis.
 tags:
   - Openshift
   - ArgoCD
@@ -16,13 +16,7 @@ tags:
   - ACS
 ---
 
-## BPCE-IT
 
-> Au sein de l'équipe Cloud/DevOps du Groupe BPCE
-
-J'interviens en tant que consultant DevOps & Cloud pour l'automatisation, le déploiement des
-applications bancaires et aussi des services du cloud interne du groupe pour
-la Banque Populaire, Caisse d'Epargne, la BRED et Natixis.
 
 - Automatisation des déploiement des clusters Kubernetes pour le service
   Kubernetes as a service
