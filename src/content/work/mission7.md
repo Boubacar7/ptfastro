@@ -10,6 +10,19 @@ tags:
   - Audit
   - Design architecture
   - Openshift
+  - Gitlab
   - kyverno
   - RKE v2
 ---
+
+## DevOps Architect
+
+- Infrastructure workshopso Audit of insfratucture of existing Rancher RKE2 production and non-production environments:
+- Automation of openshifts cluster deployments
+- Configuration of network, block, object and file storage
+- Configuration of logging systems, cluster and application monitoring
+- Configure internal registry to make decontainer images available to developers
+- Provision of continuous integration and continuous deployment environments.
+- Cluster security: authentication, privilege management, network policies, etc.
+- Application security
+- Recommendations for future clusters
