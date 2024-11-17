@@ -17,6 +17,7 @@ tags:
   - ArgoCD
   - OADP
 ---
+## DevOps Architect
 
 - Technical workshops to define the roadmap, gather requirements and frame the project
 - Drafting of HLD (High Level Design) & LLD (Low Level Design) architecture documents.
