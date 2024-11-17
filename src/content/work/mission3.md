@@ -18,6 +18,7 @@ tags:
   - Ansible
   - LDAP
 ---
+## DevOps Architect
 
 - Rancher RKE2: for container orchestration
 - Supervision: prometheus/Graphana - centreon
