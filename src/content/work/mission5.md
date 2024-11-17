@@ -11,6 +11,7 @@ tags:
   - 3scale API management
   - aws
 ---
+## Cloud & DevOps engineer
 
 - Deployment and administration of Openshift clusters on AWS.
 - Application containerization,
