@@ -17,6 +17,7 @@ tags:
   - Kasten
   - Ceph Storage
 ---
+## DevOps Architect
 
 - Technical workshops for project roadmap, requirements gatherings
 - Drafting of architecture documents Low Level Design (LLD) High Leveldesign (HLD)o
