@@ -6,16 +6,11 @@ img_alt: A bright pink sheet of paper used to wrap flowers curves in front of ri
 description: |
   Within the Cloud/DevOps team of Atos France for the Caisse Nationale de l'assurance Maladie (CNAM), I'm working as a DevOps Architect for the implementation of container orchestration infrastructure for the mon espace numérique de santé (ENS) platform.
 tags:
+  - Design 
   - Openshift
   - Vmware
-  - Gitlab
-  - Artifactory
-  - Elasticsearch
-  - RHIDM
-  - LDAP
-  - Ansible
-  - ArgoCD
-  - OADP
+  - CI/CD
+  - Apps Migrations
 ---
 ## DevOps Architect
 
@@ -28,4 +23,5 @@ tags:
 - Migration of Openshifto persistent volumes Drafting of installation and operating documents
 - Train teams in platform operation
 
-Technical environment: Openshift, Vmware, Gitlab, artifactory,Elasticsearch, Logstash, Kibana, RHIDM, LDAP, HLD, LLD, kustomize, Ansible,ArgoCD, OADP
+<ins>**Technical environment**</ins> : Openshift, Vmware, Gitlab, artifactory, Elasticsearch, Logstash, Kibana, RHIDM, LDAP, kustomize, Ansible,ArgoCD, OADP, Prometheus, Helm, etc.
+

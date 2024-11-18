@@ -4,15 +4,13 @@ publishDate: 2019-10-02 00:00:00
 img: /assets/stock-3.jpg
 img_alt: Soft pink and baby blue water ripples together in a subtle texture.
 description: |
-  We developed brand positioning and design assets for the launch
-  of a new colored water product.
+  We developed brand positioning and design assets for the launch of a new colored water product.
 tags:
   - Audit
-  - Design architecture
+  - Design 
   - Openshift
-  - Gitlab
-  - kyverno
-  - RKE v2
+  - CI/CD
+  - RKE
 ---
 
 ## DevOps Architect
@@ -26,3 +24,5 @@ tags:
 - Cluster security: authentication, privilege management, network policies, etc.
 - Application security
 - Recommendations for future clusters
+  
+<ins>**Technical environment**</ins> : Openshift, Rencher Kubernetes Engine, ArgoCD, Ansible, kyverno, MetalLB, prometheus, Grafana, bitbucket, etc.

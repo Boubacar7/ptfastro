@@ -9,14 +9,8 @@ description: |
 tags:
   - RKE
   - Vsphere
-  - Gitlab
-  - artifactory
-  - Kyverno
-  - Elasticsearch
-  - Grafana 
-  - ArgoCD
-  - Ansible
-  - LDAP
+  - CI/CD
+  - Monitoring/logging
 ---
 ## DevOps Architect
 
@@ -25,3 +19,5 @@ tags:
 - Logging: Elasticstacko Alerting: Alertmanagero Storage: Longhorn with Vsphere CSI
 - Automation: Ansible playbooks for cluster installation
 - Continuous integration: CI build pipelines, scanning, container image provisioning
+
+<ins>**Technical environment**</ins>  : Vmware, Rancher Kubernetes Engine, Gitlab, kyverno, Artifactory, Elasticsearch, Grafana, ArgoCD, Ansible, LDAP, etc.

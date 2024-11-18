@@ -4,16 +4,12 @@ publishDate: 2020-03-02 00:00:00
 img: /assets/stock-1.jpg
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  As part of Groupe BPCE's Cloud/DevOps team, I work as a DevOps & Cloud Architect for the automation, deployment of banking banking applications and also the group's internal cloud services for Banque Populaire, Caisse d'Epargne, BRED and Natixis.
+  As part of Groupe BPCE's Cloud/DevOps team, I work as a DevOps & Cloud Architect for the automation, deployment of banking applications and also the group's internal cloud services for Banque Populaire, Caisse d'Epargne, BRED and Natixis.
 tags:
   - Openshift
-  - ArgoCD
-  - Ansible Automation Platform
-  - Splunk
-  - ACM
-  - kyverno
-  - MetalLB
-  - ACS
+  - GitOps
+  - CI/CD
+  - Pure Storage
 ---
 
 ## DevOps Architect
@@ -28,3 +24,5 @@ tags:
 - Administrations des clusters
 - Sécurisation des images
 - Ansible Automation Platform
+
+<ins>**Technical environment**</ins> : Dell Baremetal, Openshift, ArgoCD, Portworx storage, Serverless, service Mesh, Ansible Automation Platform, Splunk, Red Hat ACM, Red Hat ACS, kyverno, MetalLB, pyhton, Loki/Vector, prometheus, Grafana, bitbucket, confluence, Kustomize, Helm, etc.

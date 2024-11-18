@@ -18,3 +18,5 @@ tags:
 - Databases
 - Network devices
 - Web Services
+
+<ins>**Technical environment**</ins> : Ansible, Linux, Mysql, Oracle, Cisci, tomcat, etc.

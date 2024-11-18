@@ -6,15 +6,10 @@ img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
   I worked for the Direction Générale de l'Aviation Civile (DGAC) as a DevOps Architect, proposing and building a technical architecture to migrate applications running on virtual machines to containerized platforms.
 tags:
+  - Design 
   - Openshift
-  - HP baremetal
-  - Gitlab
-  - artifactory
-  - Kyverno
-  - Ansible
-  - Loki
-  - ArgoCD
-  - Kasten
+  - CI/CD
+  - Backup/Restore
   - Ceph Storage
 ---
 ## DevOps Architect
@@ -29,3 +24,5 @@ tags:
 - Application security and filtering of network flows within the cluster.
 - Logging, traceability and monitoringo Application backup/restore management
 - Drafting of installation and operating documentation
+
+<ins>**Technical environment**</ins> : HP baremetal, Openshift, Gitlab, artifactory, Ansible, Loki, vector, ArgoCD, Kasten, Ceph Storage, etc.

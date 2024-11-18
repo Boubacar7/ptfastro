@@ -26,3 +26,5 @@ tags:
 - Application auditing for Openshift production and non-production environments:
 - Application lifecycle and deployment
 - Application securityo Logging, traceability and monitoringo Audit report & recommendations
+
+<ins>**Technical environment**</ins>  : Openshift, Vmware, CI/CD, etc.

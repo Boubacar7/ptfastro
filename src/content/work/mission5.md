@@ -18,3 +18,4 @@ tags:
 - Integration of Redhat 3scale with openshift,
 - API monetization management with 3scale AMP and keyclock.
 
+<ins>**Technical environment**</ins> : Openshift, AWS, RedHat 3scale API Management, Ansible, Gitops, etc.
